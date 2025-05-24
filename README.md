@@ -22,6 +22,7 @@ Este repositório contém testes automatizados desenvolvidos com **Selenium WebD
 - Selenium WebDriver
 - WebDriver Manager Chrome
 - Visual Studio Code
+- ChatGpt
   
 ## utils.py
 - Executa as mesmas funções em vários testes, reaproveitando configurações e inicializações
