@@ -36,5 +36,5 @@ Este repositório contém testes automatizados desenvolvidos com **Selenium WebD
 - Seleciona produtos, preenche pedido e finaliza a compra
 <img width="605" alt="Image" src="https://github.com/user-attachments/assets/2026e3bc-930e-41af-bc8e-99f359b83c61" />
 
-Obs: Aplicação construída com auxílio do ChatGpt.
+Obs: Aplicação construída com o auxílio do ChatGpt.
 
